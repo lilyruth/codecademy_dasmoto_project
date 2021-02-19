@@ -1,0 +1,40 @@
+body {
+ font-family: Helvetica, sans-serif;
+
+}
+
+header {
+ font-size: 100px;
+ font-weight: bold;
+ color: khaki;
+ text-align: center;
+ background-image: url("pattern.jpeg");
+}
+div {
+ font-size: 32px;
+ font-weight: bold;
+ color: white;
+ margin: 1rem;
+ padding-left: .5rem;
+}
+
+#div-1 {
+ background: mediumspringgreen;
+}
+
+#div-2 {
+ background: lightcoral;
+}
+
+#div-3 {
+ background: skyblue;
+}
+
+h3, img, p {
+ margin-left: 1rem;
+}
+
+span {
+ font-weight: bold;
+ color: blue;
+}
